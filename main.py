@@ -113,3 +113,5 @@ if Answer1 == "y":
 elif Answer1 == "n":
     lost()
 Direction()
+
+
